@@ -19,11 +19,11 @@
   https://github.com/samlee088/e-commerce-back-end
 
   Additional NPM package requirements:
-  express
-  mysql2
-  sequelize
-  dotenv
-  insomnia
+  - express
+  - mysql2
+  - sequelize
+  - dotenv
+  - insomnia
 
   ## Usage
 
@@ -34,7 +34,7 @@
   ![example screenshot of Insomnia with data ran with url ](/ecommerce-back-end-screenshot.png)
 
   https://drive.google.com/file/d/1LOf8UQOjsz32lWstAvImxeuKL3X9tteJ/view?usp=share_link
-  
+
   ## Credits
 
   NA
